@@ -1,3 +1,12 @@
+Оригинальный репозиторий Hazelcast  
+https://github.com/apache/geode   
+
+Архитектура и Реверс инжинириг Hazelcast  
+https://drive.google.com/drive/u/0/folders/1l0ag-p8NysSB4ElJ-aKi2NyHxeBvjqve  
+
+
+Проект Geode был создан компанией Gemstone Systems в 2002 году и применяется в качестве высокопроизводительного движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит. После поглощения компанией Pivotal в апреле 2015 года технологии Geode были переданы Фонду Apache. В настоящее время решения на базе Apache Geode внедрены на более чем 600 предприятий для обеспечения бесперебойной работы бизнес-приложений, которым требуется гарантированное время отклика и безостановочное функционирование. В качестве примgера внедрения Geode упоминается Национальная железная дорога Китая, в которой кластер из 20 узлов (10 основных и 10 запасных) обеспечивает хранение 2 Тб оперативной информации о билетах.
+
 [<img src="https://geode.apache.org/img/Apache_Geode_logo.png" align="center"/>](http://geode.apache.org)
 
 [![Build Status](https://concourse.apachegeode-ci.info/api/v1/teams/main/pipelines/apache-develop-main/jobs/Build/badge)](https://concourse.apachegeode-ci.info/teams/main/pipelines/apache-develop-main) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.geode/geode-core/badge.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.apache.geode%22) [![homebrew](https://img.shields.io/homebrew/v/apache-geode.svg)](https://formulae.brew.sh/formula/apache-geode) [![Docker Pulls](https://img.shields.io/docker/pulls/apachegeode/geode.svg)](https://hub.docker.com/r/apachegeode/geode/) [![Total alerts](https://img.shields.io/lgtm/alerts/g/apache/geode.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/apache/geode/alerts/) [![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/apache/geode.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/apache/geode/context:java) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/apache/geode.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/apache/geode/context:javascript) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/apache/geode.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/apache/geode/context:python)
