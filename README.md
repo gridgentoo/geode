@@ -1,7 +1,7 @@
-Оригинальный репозиторий Hazelcast  
+Оригинальный репозиторий Geode   
 https://github.com/apache/geode   
 
-Архитектура и Реверс инжинириг Hazelcast  
+Архитектура и Реверс инжинириг Geode    
 https://drive.google.com/drive/u/0/folders/1l0ag-p8NysSB4ElJ-aKi2NyHxeBvjqve  
 
 
